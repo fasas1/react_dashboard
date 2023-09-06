@@ -1,2 +1,2 @@
 # Admin Dashboard 
-## Inventory dashboard 
+## Inventory Dashboard 
