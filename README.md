@@ -1,4 +1,4 @@
-# Admin Dashboard 
+#  Dashboard 
 ## Inventory Dashboard 
 ### Technologies Used 
 . React 
