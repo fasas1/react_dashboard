@@ -4,3 +4,4 @@
 . React 
 . Material UI 
 . ChartJS
+. React Chart
